@@ -9,5 +9,3 @@
 ## Melyik városnak van a legnépesebb lakossága? (Hol laknak legtöbben?)
 
 ## Hányan laknak abban a városban, ahol a legnagyobb a borfogyasztás? (1. Melyik "sorban" legnagyobb a borfogyasztás? 2. Milyen érték található ebben a sorban (listában) a 2. indexű helyen?)
-
-## Te is találhatsz ki feladatokat ezek alapján. Ne feledd, a törtszámoknál csak Magyarországon használunk tizedesvesszőt
