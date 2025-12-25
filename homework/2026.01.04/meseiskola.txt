@@ -1,0 +1,24 @@
+Iskola;Osztály;Tanulmányi Átlag;Fiúk száma;Lányok száma;Osztályfőnök
+Szivárvány Iskola;4.b;4,0;13;15;Nagy László
+Szivárvány Iskola;4.c;3,8;11;15;Szabó Judit
+Szivárvány Iskola;4.d;3,9;10;14;Kiss Gábor
+Szivárvány Iskola;5.a;4,5;13;14;Balogh János
+Szivárvány Iskola;5.b;4,1;14;15;Horváth Eszter
+Szivárvány Iskola;5.c;3,7;12;13;Tóthné Kovács Katalin
+Szivárvány Iskola;5.d;4,0;12;14;Molnár Zoltán
+Szivárvány Iskola;6.a;4,3;14;16;Varga Ágnes
+Szivárvány Iskola;6.b;3,9;13;15;Szabó Zsolt
+Szivárvány Iskola;6.c;4,2;12;15;Nagy Judit
+Szivárvány Iskola;6.d;4,1;11;14;Kovács Péter
+Szivárvány Iskola;7.a;3,8;14;15;Kissné Nagy Gabriella
+Szivárvány Iskola;7.b;4,0;12;16;Tóth Gergő
+Szivárvány Iskola;7.c;4,5;11;15;Mészáros Anna
+Szivárvány Iskola;7.d;4,2;12;13;Varga Gábor
+Szivárvány Iskola;8.a;4,1;13;14;Balogh Judit
+Szivárvány Iskola;8.b;4,4;14;14;Szabó Gergely
+Szivárvány Iskola;8.c;4,2;12;14;Nagy Ágnes
+Szivárvány Iskola;8.d;3,9;11;13;Kovács Gábor
+Szivárvány Iskola;9.a;3,7;15;15;Tóth Anna
+Szivárvány Iskola;9.b;4,3;13;16;Molnár Gergő
+Szivárvány Iskola;9.c;4,1;12;15;Kiss Ágnes
+Szivárvány Iskola;9.d;4,2;13;13;Szabóné Kovács Katalin
