@@ -20,6 +20,7 @@ print(header)
 for i in content:
     print(i) 
 """
+
 # 3. Feladat
 def get_registration_num(array: list) -> int:
     '''Megszámolja a bejegyések számát'''
