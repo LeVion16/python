@@ -1,0 +1,5 @@
+Ambrózfalva;község;Makói;1122;488
+Apátfalva;község;Makói;5378;2998
+Árpádhalom;község;Szentesi;4520;489
+Ásotthalom;község;Mórahalmi;12254;4023
+Klárafalva;község;Szegedi;910;490
