@@ -1,0 +1,11 @@
+Nev;Nem;Csapat;Ido;Tavolsag
+Kovacs Andras;ferfi;Gyors Labak;124;40
+Nagy Elena;no;Szello;135;40
+Szabo Peter;ferfi;Gyors Labak;118;40
+Kiss Virag;no;Hegyi Kecskek;156;40
+Molnar David;ferfi;Szello;110;40
+Horvath Anna;no;Hegyi Kecskek;142;40
+Toth Gabor;ferfi;Gyors Labak;121;40
+Varga Luca;no;Szello;128;40
+Papp Ferenc;ferfi;Hegyi Kecskek;145;40
+Balogh Zsofia;no;Gyors Labak;130;40

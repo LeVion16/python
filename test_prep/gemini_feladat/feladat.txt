@@ -1,0 +1,30 @@
+Feladat: Kerékpárverseny adatainak feldolgozása
+
+Készíts egy Python programot, amely a 'bringasok.csv' fájl adatait dolgozza fel a következő szempontok alapján:
+
+1. Hozz létre egy osztályt (pl. Versenyzo néven), amely tárolja a forrásfájl adatait:
+   - Név
+   - Nem
+   - Csapat
+   - Idő (percekben)
+   - Távolság (km-ben)
+
+2. Olvasd be a fájl tartalmát egy listába, amely az osztály példányait tartalmazza! Ügyelj rá, hogy a fejlécet hagyd ki.
+
+3. Határozd meg és írd ki a képernyőre, hogy összesen hány versenyző vett részt a versenyen!
+
+4. Számold ki és írd ki az összes versenyző átlagos menetidejét!
+
+5. Kérj be a felhasználótól egy csapatnevet:
+   a. Írd ki a képernyőre az adott csapatba tartozó versenyzők neveit!
+   b. Ha nincs ilyen csapat, írd ki: "A megadott csapat nem indult a versenyen!"
+
+6. Keresd meg a leggyorsabb versenyzőt (aki a legkevesebb idő alatt teljesítette a távot):
+   - Írd ki a nevét, a csapatát és az idejét!
+
+7. Készíts egy új fájlt 'statisztika.txt' néven, amelybe kigyűjtöd a férfi és női versenyzők számát az alábbi formátumban:
+   - Ferfiak: [darabszám]
+   - Nok: [darabszám]
+
+8. (Bónusz): Számold ki és írd ki minden versenyző mellé az átlagsebességét (km/h)!
+   Képlet: (távolság / (idő / 60))
