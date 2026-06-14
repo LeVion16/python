@@ -1,0 +1,13 @@
+Név&Ország&Szám&Eredmény (mp)&Érem
+Usain Bolt&Jamaica&100 m&9,58&arany
+Marcell Jacobs&Olaszország&100 m&9,80&arany
+Noah Lyles&USA&100 m&9,83&ezüst
+Karsten Warholm&Norvégia&400 m gát&45,94&arany
+Sydney McLaughlin&USA&400 m gát&50,68&arany
+Andre De Grasse&Kanada&200 m&19,62&arany
+Lamont Jacobs&Olaszország&60 m&6,41&arany
+Fred Kerley&USA&100 m&9,84&bronz
+Akani Simbine&Dél-Afrika&100 m&9,93&bronz
+Neeraj Chopra&India&gerelyhajítás&87,58&arany
+Sifan Hassan&Hollandia&10000 m&29,06&arany
+Faith Kipyegon&Kenya&1500 m&3,51&arany

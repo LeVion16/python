@@ -1,0 +1,13 @@
+Cím#Műfaj#Év#Értékelés#Hossz (perc)
+Csillagok háborúja#sci-fi#1977#9,2#121
+Jurassic Park#kaland#1993#8,1#127
+A remény rabjai#dráma#1994#9,3#142
+Az oroszlánkirály#animáció#1994#8,5#88
+Titanic#romantikus#1997#7,9#194
+Mátrix#sci-fi#1999#8,7#136
+Gladiátor#történelmi#2000#8,5#155
+Pán Péter#kaland#2003#6,5#113
+Avatar#sci-fi#2009#7,9#162
+Inception#thriller#2010#8,8#148
+Harc a Holdig#dráma#2016#7,4#101
+Dűne#sci-fi#2021#8,0#155
